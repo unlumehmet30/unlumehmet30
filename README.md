@@ -19,19 +19,19 @@
 #### 📝 Programming Languages
 | Language | Icon |
 | :--- | :--- |
-| Python | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| C / C# | ![C/C#](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) |
-| Dart | ![Dart](https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg) |
+| Python | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/> |
+| C / C# | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C/C#" width="40"/> |
+| Dart | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" alt="Dart" width="40"/> |
 
 #### 🛠️ Tools & Technologies
 | Category | Tools |
 | :--- | :--- |
-| **Deep Learning** | Keras/TensorFlow ![Keras/Tensorflow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg), PyTorch ![Pytorch](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg) |
-| **Machine Learning** | Scikit-learn (Sk-Learn) ![Sk-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) |
-| **Data Analysis** | NumPy ![Numpy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg), Pandas ![Pandas](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg) |
-| **Mobile Dev** | Flutter ![Flutter](https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg) |
-| **Computer Vision** | OpenCV ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png) |
-| **Version Control** | Git ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) |
+| **Deep Learning** | Keras/TensorFlow <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40"/>, PyTorch <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40"/> |
+| **Machine Learning** | Scikit-learn (Sk-Learn) <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/> |
+| **Data Analysis** | NumPy <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40"/>, Pandas <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40"/> |
+| **Mobile Dev** | Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="Flutter" width="40"/> |
+| **Computer Vision** | OpenCV <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="OpenCV" width="40"/> |
+| **Version Control** | Git <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40"/> |
 
 ---
 
@@ -41,8 +41,6 @@
 * **InnerMap:** Text-to-mind map iOS/Android application.
 * **PlantDoc:** App for detecting disease from plant pictures.
 * **Subtitle:** Audio-to-Text application.
-
-**(Tip: Consider adding a brief description of the technology used for each project, e.g., 'PlantDoc (CNN-based Image Classification)')**
 
 ---
 
