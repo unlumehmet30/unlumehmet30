@@ -1,55 +1,146 @@
-<h1 align="center"> Hi! I am Mehmet 👋 </h1>
+# Mehmet Ünlü
+
 <p align="center">
-<i>AI & Machine Learning Enthusiast | Electronics & Communication Engineering Undergrad | Python & Deep Learning Practitioner</i>
+  <b>AI Engineer & Electronics Engineering Student</b><br>
+  Machine Learning • Deep Learning • Forecasting • NLP • Autonomous Systems
+</p>
+
+<p align="center">
+  <a href="mailto:unlu.mehmett1@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/unlumehmett1">LinkedIn</a> •
+  <a href="https://github.com/unlumehmet30">GitHub</a>
 </p>
 
 ---
 
-### 💻 About Me 
+## About Me
 
-* A second-year **Electronics and Communication Engineering** student at Istanbul Technical University.
-* Have a strong passion for **Artificial Intelligence (AI)** and data-driven technologies. 
-* Focused on enhancing skills in **Data Science**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.
-* Actively exploring **Computer Vision** and **AI-powered Autonomous Systems**.
+I am an Electronics and Communication Engineering student at  
+Istanbul Technical University with a strong focus on Artificial Intelligence and Machine Learning systems.
 
----
+My interests mainly revolve around:
 
-### ⚙️ Tech Stack
+- Machine Learning & Deep Learning
+- Time Series Forecasting
+- Natural Language Processing (NLP)
+- Computer Vision
+- AI-powered Autonomous Systems
+- Edge AI & Intelligent Embedded Systems
 
-#### 📝 Programming Languages
-| Language | Icon |
-| :--- | :--- |
-| Python | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/> |
-| C / C# | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C/C#" width="40"/> |
-| Dart | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" alt="Dart" width="40"/> |
+I enjoy building end-to-end AI systems that combine research and practical engineering.
 
-#### 🛠️ Tools & Technologies
-| Category | Tools |
-| :--- | :--- |
-| **Deep Learning** | Keras/TensorFlow <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40"/>, PyTorch <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40"/> |
-| **Machine Learning** | Scikit-learn (Sk-Learn) <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/> |
-| **Data Analysis** | NumPy <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40"/>, Pandas <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40"/> |
-| **Mobile Dev** | Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="Flutter" width="40"/> |
-| **Computer Vision** | OpenCV <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="OpenCV" width="40"/> |
-| **Version Control** | Git <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40"/> |
+Currently, I am working on:
+- Intermittent demand forecasting systems
+- Reinforcement learning-enhanced prediction systems
+- Whisper-based speech processing applications
+- AI-integrated mobile applications using Flutter
 
 ---
 
-### 📱 Projects
+# Tech Stack
 
-* **SketchMind:** Social media app for kids.
-* **InnerMap:** Text-to-mind map iOS/Android application.
-* **PlantDoc:** App for detecting disease from plant pictures.
-* **Subtitle:** Audio-to-Text application.
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,c,cs" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Scikit-learn
+- LightGBM
+- NumPy
+- Pandas
+- OpenCV
+- Hugging Face
+- Whisper
+
+## Mobile & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-### 📞 Contact Me
+# Featured Projects
 
-* 📧 **Email:** [unlu.mehmett1@gmail.com](mailto:unlu.mehmett1@gmail.com)
-* 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/unlumehmett1)
+## SketchMind
+AI-powered social media and storytelling platform designed for children.
 
+Tech: Flutter • Firebase • OpenAI API
 
+Features:
+- AI-generated stories
+- Video & subtitle integration
+- Child-parent interaction system
+- Voice-based AI interaction
 
+---
 
+## InnerMap
+Cross-platform mobile application that converts text into structured mind maps.
 
+Tech: Flutter • NLP • Graph-based visualization
+
+---
+
+## Subtitle
+Speech-to-text application powered by Whisper models.
+
+Tech: Python • Whisper • Hugging Face
+
+Features:
+- Audio transcription
+- Multi-language support
+- Subtitle generation
+- Prompt-enhanced text processing
+
+---
+
+## PlantDoc
+Mobile application for plant disease detection using computer vision models.
+
+Tech: TensorFlow • OpenCV • Flutter
+
+---
+
+# Research Interests
+
+- Reinforcement Learning
+- Forecasting Systems
+- Autonomous AI Agents
+- Computer Vision
+- Graph Neural Networks (GNNs)
+- Spiking Neural Networks (SNNs)
+- Edge AI Systems
+
+---
+
+# Currently Learning
+
+- Advanced Time Series Forecasting
+- Reinforcement Learning
+- FPGA & Hardware Acceleration
+- AI for Embedded Systems
+- Autonomous Drone Systems
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unlumehmet30&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlumehmet30&layout=compact&theme=tokyonight" height="180"/>
+</p>
