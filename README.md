@@ -13,10 +13,9 @@
 
 ---
 
-## About Me
+# About Me
 
-I am an Electronics and Communication Engineering student at  
-Istanbul Technical University with a strong focus on Artificial Intelligence and Machine Learning systems.
+I am an Electronics and Communication Engineering student at Istanbul Technical University with a strong focus on Artificial Intelligence and Machine Learning systems.
 
 My interests mainly revolve around:
 
@@ -24,7 +23,7 @@ My interests mainly revolve around:
 - Time Series Forecasting
 - Natural Language Processing (NLP)
 - Computer Vision
-- AI-powered Autonomous Systems
+- Autonomous Systems
 - Edge AI & Intelligent Embedded Systems
 
 I enjoy building end-to-end AI systems that combine research and practical engineering.
@@ -34,6 +33,7 @@ Currently, I am working on:
 - Reinforcement learning-enhanced prediction systems
 - Whisper-based speech processing applications
 - AI-integrated mobile applications using Flutter
+- Hybrid visual odometry systems
 
 ---
 
@@ -65,7 +65,7 @@ Currently, I am working on:
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-## Tools
+## Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -75,43 +75,102 @@ Currently, I am working on:
 
 # Featured Projects
 
-## SketchMind
-AI-powered social media and storytelling platform designed for children.
+## Hybrid Visual Odometry System
 
-Tech: Flutter • Firebase • OpenAI API
+Developed a hybrid visual odometry architecture combining both deep learning-based and classical visual odometry approaches.
 
-Features:
-- AI-generated stories
-- Video & subtitle integration
-- Child-parent interaction system
-- Voice-based AI interaction
+The system dynamically evaluates predictions from both pipelines and selects the most reliable estimation using a confidence-aware decision mechanism.
+
+### Key Features
+- Deep learning-based motion estimation using RAFT
+- Classical feature-based visual odometry pipeline
+- Confidence-score driven model selection
+- Hybrid decision architecture for robustness
+- Real-time motion estimation experimentation
+
+### Technologies
+Python • PyTorch • OpenCV • RAFT • Computer Vision
 
 ---
 
-## InnerMap
-Cross-platform mobile application that converts text into structured mind maps.
+## ML Pipeline Optimization
 
-Tech: Flutter • NLP • Graph-based visualization
+Designed and optimized a machine learning pipeline focused on large-scale data processing and model training.
+
+### Key Improvements
+- Reduced end-to-end pipeline runtime from 40 minutes to 4 minutes
+- Optimized preprocessing and feature engineering stages
+- Improved memory efficiency and data loading workflow
+- Refactored bottleneck operations using vectorized processing techniques
+- Enhanced training workflow scalability for large datasets
+
+### Technologies
+Python • Pandas • NumPy • Scikit-learn • LightGBM
+
+---
+
+## Intermittent Demand Forecasting System
+
+Built machine learning models for sparse and intermittent demand forecasting on large-scale retail-like datasets.
+
+### Features
+- Two-stage forecasting architecture
+- Sparse demand modeling
+- Tweedie-based regression pipeline
+- Time-series feature engineering
+- Recursive forecasting experiments
+- Model evaluation using WAPE and RMSSE metrics
+
+### Technologies
+Python • LightGBM • Pandas • NumPy • Scikit-learn
 
 ---
 
 ## Subtitle
+
 Speech-to-text application powered by Whisper models.
 
-Tech: Python • Whisper • Hugging Face
-
-Features:
+### Features
 - Audio transcription
 - Multi-language support
 - Subtitle generation
 - Prompt-enhanced text processing
 
+### Technologies
+Python • Whisper • Hugging Face • NLP
+
+---
+
+## SketchMind
+
+AI-powered social media and storytelling platform designed for children.
+
+### Features
+- AI-generated stories
+- Video & subtitle integration
+- Child-parent interaction system
+- Voice-based AI interaction
+
+### Technologies
+Flutter • Firebase • OpenAI API
+
+---
+
+## InnerMap
+
+Cross-platform mobile application that converts text into structured mind maps.
+
+### Technologies
+Flutter • NLP • Graph-based visualization
+
 ---
 
 ## PlantDoc
+
 Mobile application for plant disease detection using computer vision models.
 
-Tech: TensorFlow • OpenCV • Flutter
+### Technologies
+TensorFlow • OpenCV • Flutter
 
 ---
 
@@ -124,6 +183,7 @@ Tech: TensorFlow • OpenCV • Flutter
 - Graph Neural Networks (GNNs)
 - Spiking Neural Networks (SNNs)
 - Edge AI Systems
+- AI for Robotics
 
 ---
 
@@ -141,6 +201,6 @@ Tech: TensorFlow • OpenCV • Flutter
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unlumehmet30&show_icons=true&theme=tokyonight" height="180"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unlumehmet30&layout=compact&theme=tokyonight" height="180"/>
 </p>
